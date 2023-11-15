@@ -1,0 +1,12 @@
+.Form {
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+    gap: 1vh;
+}
+
+select {
+    width: 10vh;
+    height: 2.5vh;
+    border: 0;
+}

@@ -1,0 +1,13 @@
+.DevCard {
+    display: flex;
+    width: 25vh;
+    height: 35vh;
+    border-radius: 3vh;
+    background-color: #1a1d23;
+    color: #f1f2f3;
+    text-align: center;
+}
+
+hr {
+    color: #f1f2f3;
+}
